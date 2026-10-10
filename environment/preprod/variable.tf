@@ -1,0 +1,1 @@
+variable "rg_preprod-01" {}
